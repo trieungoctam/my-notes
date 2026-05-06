@@ -1,0 +1,78 @@
+# Knowledge Base Index
+
+## Documents
+- [[summaries/Running Lean, 3rd Edition  Iterate from Plan A to a Plan That Works Ash Maurya z-library.sk, 1lib.sk, z-lib.sk-A-Bonus-Material]] (short) - A systematic framework for turning Plan A into traction through testing and iteration.
+- [[summaries/Running Lean, 3rd Edition  Iterate from Plan A to a Plan That Works Ash Maurya z-library.sk, 1lib.sk, z-lib.sk-15-Epilogue]] (short) - A practical system for turning ideas into traction through staged validation and growth.
+- [[summaries/Running Lean, 3rd Edition  Iterate from Plan A to a Plan That Works Ash Maurya z-library.sk, 1lib.sk, z-lib.sk-14-Find-Your-Growth-Rocket]] (short) - Framework for iterating from Plan A to traction via validation, offers, and growth.
+- [[summaries/Running Lean, 3rd Edition  Iterate from Plan A to a Plan That Works Ash Maurya z-library.sk, 1lib.sk, z-lib.sk-13-Make-Happy-Customers]] (short) - Running Lean reframes startups as business-model experiments, not product builds.
+- [[summaries/Running Lean, 3rd Edition  Iterate from Plan A to a Plan That Works Ash Maurya z-library.sk, 1lib.sk, z-lib.sk-12-Get-Ready-to-Launch]] (short) - A framework for turning startup ideas into validated businesses through continuous innovation.
+- [[summaries/Running Lean, 3rd Edition  Iterate from Plan A to a Plan That Works Ash Maurya z-library.sk, 1lib.sk, z-lib.sk-11-Run-a-90-Day-Cycle-Review]] (short) - Continuous Innovation framework for iterating from Plan A to a working business model.
+- [[summaries/Running Lean, 3rd Edition  Iterate from Plan A to a Plan That Works Ash Maurya z-library.sk, 1lib.sk, z-lib.sk-10-Deliver-a-Mafia-Offer-Your-Customers-Cannot-Refuse]] (short) - Lean startup method for turning Plan A into validated traction through cycles.
+- [[summaries/Running Lean, 3rd Edition  Iterate from Plan A to a Plan That Works Ash Maurya z-library.sk, 1lib.sk, z-lib.sk-9-Design-Your-Solution-to-Cause-a-Switch]] (short) - A practical framework for turning raw ideas into validated, traction-driven business models.
+- [[summaries/Running Lean, 3rd Edition  Iterate from Plan A to a Plan That Works Ash Maurya z-library.sk, 1lib.sk, z-lib.sk-8-Understand-Your-Customers-Better-Than-They-Do]] (short) - A system for iterating from Plan A to a working business model.
+- [[summaries/Running Lean, 3rd Edition  Iterate from Plan A to a Plan That Works Ash Maurya z-library.sk, 1lib.sk, z-lib.sk-7-Kick-Off-Your-First-90-Day-Cycle]] (short) - Lean startup framework for iterating Plan A into a validated business model.
+- [[summaries/Running Lean, 3rd Edition  Iterate from Plan A to a Plan That Works Ash Maurya z-library.sk, 1lib.sk, z-lib.sk-6-Validate-Your-Idea-Using-90-Day-Cycles]] (short) - Systematic startup validation from Plan A to traction using Lean Canvas and 90-day cycles.
+- [[summaries/Running Lean, 3rd Edition  Iterate from Plan A to a Plan That Works Ash Maurya z-library.sk, 1lib.sk, z-lib.sk-II-Validation]] (short) - A framework for iterating from Plan A to a workable business model using Lean Canvas.
+- [[summaries/Running Lean, 3rd Edition  Iterate from Plan A to a Plan That Works Ash Maurya z-library.sk, 1lib.sk, z-lib.sk-5-Communicate-Your-Idea-Clearly-and-Concisely]] (short) - Framework for iterating from Plan A to a validated, traction-driven business model.
+- [[summaries/Running Lean, 3rd Edition  Iterate from Plan A to a Plan That Works Ash Maurya z-library.sk, 1lib.sk, z-lib.sk-4-Stress-Test-Your-Idea-for-Feasibility]] (short) - Lean startup system for iterating Plan A into a working business model.
+- [[summaries/Running Lean, 3rd Edition  Iterate from Plan A to a Plan That Works Ash Maurya z-library.sk, 1lib.sk, z-lib.sk-3-Stress-Test-Your-Idea-for-Viability]] (short) - A systematic framework for iterating from idea to viable business model.
+- [[summaries/Running Lean, 3rd Edition  Iterate from Plan A to a Plan That Works Ash Maurya z-library.sk, 1lib.sk, z-lib.sk-2-Stress-Test-Your-Idea-for-Desirability]] (short) - Lean startup guide for turning Plan A into a validated, customer-driven business model.
+- [[summaries/Running Lean, 3rd Edition  Iterate from Plan A to a Plan That Works Ash Maurya z-library.sk, 1lib.sk, z-lib.sk-1-Deconstruct-Your-Idea-on-a-Lean-Canvas]] (short) - Lean startup playbook for iterating from Plan A to a validated business model.
+- [[summaries/Running Lean, 3rd Edition  Iterate from Plan A to a Plan That Works Ash Maurya z-library.sk, 1lib.sk, z-lib.sk-I-Design]] (short) - A framework for turning startup ideas into validated business models through iterative testing.
+- [[summaries/Running Lean, 3rd Edition  Iterate from Plan A to a Plan That Works Ash Maurya z-library.sk, 1lib.sk, z-lib.sk-Introduction]] (short) - Framework for turning uncertain ideas into traction-first business models.
+- [[summaries/Running Lean, 3rd Edition  Iterate from Plan A to a Plan That Works Ash Maurya z-library.sk, 1lib.sk, z-lib.sk-Preface-to-the-Third-Edition]] (short) - Ash Maurya updates Running Lean with a continuous innovation framework and new validation tools.
+
+## Concepts
+- [[concepts/offer-design]] - Design an offer that makes customers want to switch and pay.
+- [[concepts/valuation-metrics]] - Numbers used to judge whether a business model can create value.
+- [[concepts/growth-loop]] - A growth loop is a self-reinforcing system that turns customer outputs into new customers.
+- [[concepts/validation-recipe]] - Practical MVP patterns for testing demand before building fully.
+- [[concepts/customer-progress-roadmap]] - Sequence customer success into smaller milestones and rewards.
+- [[concepts/growth-rocket]] - A growth rocket is the scalable loop that sustains customer acquisition.
+- [[concepts/customer-progress-roadmap]] - A staged path of small wins that gets customers to lasting value.
+- [[concepts/behavior-design]] - Designing products to make repeated use easy, rewarding, and habitual.
+- [[concepts/venture-customer-pricing]] - Early-stage pricing anchors on customer value, alternatives, and viability math.
+- [[concepts/problem-solution-fit]] - A two-week sprint to uncover real customer problems worth solving.
+- [[concepts/offer-delivery]] - Validate demand with a compelling offer before building the MVP.
+- [[concepts/customer-stories]] - Recurring customer narratives grouped by trigger, outcome, and solution.
+- [[concepts/switching-cost]] - Cost of switching plus effort needed to earn customer buy-in.
+- [[concepts/offer-campaigns]] - Pre-build offers that test commitment before you build the MVP.
+- [[concepts/customer-jobs]] - Jobs-to-be-done explains why customers switch solutions to get a specific job done.
+- [[concepts/mafia-offer]] - A high-conversion offer built through interviews before building
+- [[concepts/customer-forces-canvas]] - A behavior-mapping canvas for understanding why customers switch.
+- [[concepts/problem-discovery]] - A two-week interview sprint to uncover real customer problems worth solving.
+- [[concepts/mafia-offer]] - A pre-MVP offer that proves demand and commitment before building
+- [[concepts/traction-cadence]] - A 90-day rhythm for testing, learning, and re-targeting traction.
+- [[concepts/problem-discovery]] - Learn customers' real jobs, triggers, and frictions before choosing a solution.
+- [[concepts/value-curve]] - A value curve maps how an offering differs across dimensions customers care about.
+- [[concepts/customer-forces-model]] - Behavioral forces that explain why customers switch products or stay with the old way.
+- [[concepts/build-measure-learn]] - A loop for turning ideas into evidence through rapid experimentation.
+- [[concepts/pitch-worldviews]] - Different audiences need different frames on the same business model.
+- [[concepts/customer-forces-model]] - Explains why customers switch from an old way to a better one
+- [[concepts/startup-stages]] - A stage-based framework for reducing startup risk at the right time.
+- [[concepts/wizard-of-oz-mvp]] - A staged MVP that fakes the hard parts to test demand before building.
+- [[concepts/advisor-worldview]] - A learning-first frame for early idea conversations with trusted advisors.
+- [[concepts/now-next-later]] - A staged rollout plan that sequences startup work by current risk.
+- [[concepts/value-based-pricing]] - Price based on customer value, not build cost, to test viability.
+- [[concepts/traction-roadmap]] - A staged growth map that turns business goals into customer milestones.
+- [[concepts/demo-sell-build]] - Validate demand with an offer before building the product.
+- [[concepts/model-prioritize-test]] - A recurring loop to model, prioritize, and test the riskiest assumptions
+- [[concepts/customer-factory]] - A system for turning visitors into customers, repeat users, and referrers.
+- [[concepts/bigger-context]] - The wider real-world job and outcome behind a product choice.
+- [[concepts/switching-triggers]] - An event that makes the current solution feel no longer good enough.
+- [[concepts/innovator-gift]] - Innovation starts by finding old solutions customers are ready to switch from.
+- [[concepts/innovation-trinity]] - A three-way filter for desirability, viability, and feasibility in early innovation.
+- [[concepts/business-model-archetypes]] - Recurring startup business-model shapes: direct, multisided, marketplace.
+- [[concepts/unfair-advantage]] - A hard-to-copy edge that survives imitation and compounds with traction.
+- [[concepts/customer-segments]] - The people or organizations a business model is designed to serve.
+- [[concepts/business-model]] - A business model is the system for creating, delivering, and capturing value.
+- [[concepts/mvp-definition]] - The smallest validated product that creates, delivers, and captures value.
+- [[concepts/problem-solution-fit]] - Evidence that a real problem, offer, and switch are worth building.
+- [[concepts/lean-canvas]] - One-page model for testing an idea as a business, not a product.
+- [[concepts/build-trap]] - Building more without proving demand or viable economics.
+- [[concepts/traction-first]] - Prove demand, economics, and rollout before building and scaling.
+- [[concepts/framework-combination]] - Combining multiple frameworks to reduce uncertainty and build what works
+- [[concepts/customer-discovery]] - Learning from real customer behavior before building or pitching a solution.
+- [[concepts/continuous-innovation]] - A staged system for turning ideas into validated, scalable businesses.
+
+## Explorations
