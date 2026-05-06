@@ -8,24 +8,24 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "Quartz 4",
-    pageTitleSuffix: "",
+    pageTitle: "Tâm's Notes", // Tên hiển thị trên thanh điều hướng
+    pageTitleSuffix: " | Digital Garden", // Hậu tố hiển thị trên tab trình duyệt
     enableSPA: true,
     enablePopovers: true,
     analytics: {
       provider: "plausible",
     },
-    locale: "en-US",
-    baseUrl: "quartz.jzhao.xyz",
+    locale: "vi-VN", // Chuyển sang định dạng ngày tháng và ngôn ngữ tiếng Việt
+    baseUrl: "trieungoctam.github.io/my-notes", // Rất quan trọng để Sitemap và RSS hoạt động chuẩn xác
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "modified",
     theme: {
       fontOrigin: "googleFonts",
       cdnCaching: true,
       typography: {
-        header: "Schibsted Grotesk",
-        body: "Source Sans Pro",
-        code: "IBM Plex Mono",
+        header: "Inter", // Font hiện đại, sạch sẽ cho tiêu đề
+        body: "Inter",
+        code: "Fira Code", // Font chuyên dụng rất đẹp cho các đoạn code kỹ thuật
       },
       colors: {
         lightMode: {
